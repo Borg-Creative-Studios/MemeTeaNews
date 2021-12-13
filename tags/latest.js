@@ -1,6 +1,6 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'Samaritan’s Purse is responding to tornado stricken communities in Kentucky and Arkansas.'
+    document.getElementById("title1").innerHTML = 'Samaritans Purse is responding to tornado stricken communities in Kentucky and Arkansas.'
     document.getElementById("content1").innerHTML = '<p>#kentuckytornado #disasterrecovery #news #openteanews </p>'
     document.getElementById("content2").innerHTML = ''
     document.getElementById("link1").innerHTML = 'Learn more about how to volunteer with Samaritan’s Purse and how they are responding here.'
