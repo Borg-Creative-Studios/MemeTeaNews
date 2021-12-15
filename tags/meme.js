@@ -10,7 +10,7 @@ function latest(){
     /* Recent 2 */
 
     document.getElementById("mtitle2").innerHTML = ''
-    document.getElementById("mcontent3").src = 'https://tea.borgcreative.com/memes/intro.png'
+    document.getElementById("mcontent3").src = 'https://tea.borgcreative.com/memes/intro.jpeg'
     document.getElementById("mcontent4").innerHTML = ''
     document.getElementById("mlink2").innerHTML = ''
     document.getElementById("mlink2").href = ''
