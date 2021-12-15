@@ -1,7 +1,7 @@
 function latest(){
     /* Top most entry */
     document.getElementById("title1").innerHTML = 'NYPD has released the November crime statistics.'
-    document.getElementById("content1").innerHTML = '<p>-Nov 2021 crime was up 21.3% from Nov 2020.</p><p>zcrime in NYC is up 3.4% from 2020.</p><p>-Crime in NYC is down 11% from 2013.</p><p>-Crime in NYC is down 46% from 2000.</p>'
+    document.getElementById("content1").innerHTML = '<p>-Nov 2021 crime was up 21.3% from Nov 2020.</p><p>-Crime in NYC is up 3.4% from 2020.</p><p>-Crime in NYC is down 11% from 2013.</p><p>-Crime in NYC is down 46% from 2000.</p>'
     document.getElementById("content2").innerHTML = '<p>The NYPD released this information on the 8th of December.</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
