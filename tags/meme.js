@@ -1,4 +1,4 @@
-function latest(){
+function memes(){
     /* Top most entry */
     document.getElementById("mtitle1").innerHTML = ''
     document.getElementById("mcontent1").src = 'https://tea.borgcreative.com/memes/gasprices1.png'
