@@ -1,6 +1,15 @@
 12/13/21 Archive
 
 
+12/13/21 3:03 PM
+
+KY Gov. Beshear gave an update regarding the Dec 11th tornadoes.
+
+-64 confirmed lives lost.-18 of those lost have yet to be identified.-105 individuals are still missing.
+-Approximately 1000 homes have been destroyed or damaged.-Flags in KY will be flown half mast Tuesday through Monday.-The KY relief fund has raised $4,009,817.71
+
+Donate to the relief fund.
+
 
 
 12/13/21 1:51pm
