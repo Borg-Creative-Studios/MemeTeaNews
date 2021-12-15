@@ -1,8 +1,8 @@
 function latest(){
     /* Top most entry */
     document.getElementById("title1").innerHTML = 'Biden agrees with the Uyghur Forced Labor Prevention Act. The admin has also imposed,'
-    document.getElementById("content1").innerHTML = '<p>"We agree with Congress that action can and must be taken to hold the People’s Republic of China accountable for genocide and human rights abuses and to address forced labor in Xinjiang."</p>'
-    document.getElementById("content2").innerHTML = '<p>-Financial sanctions</p><p>Visa restrictions</p><p>import & export restrictions</p>'
+    document.getElementById("content1").innerHTML = '<p>-Financial sanctions</p><p>Visa restrictions</p><p>import & export restrictions</p>'
+    document.getElementById("content2").innerHTML = ''
     document.getElementById("link1").innerHTML = 'WH RELEASE'
     document.getElementById("link1").href = 'https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/statement-by-press-secretary-jen-psaki-on-the-uyghur-forced-labor-prevention-act/'
     document.getElementById("time1").innerHTML = '12/14/21 7:54pm'
