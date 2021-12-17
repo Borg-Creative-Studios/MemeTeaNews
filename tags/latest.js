@@ -2,7 +2,7 @@ function latest(){
     /* Top most entry */
 
     document.getElementById("title1").innerHTML = 'Operation Allies Welcome'
-    document.getElementById("content1").innerHTML = '<p>-The WH confirmed this morning that ~43,000 Afghans resettle in the US</p>'
+    document.getElementById("content1").innerHTML = '<p>-The WH confirmed this morning that ~43,000 Afghans have resettled in the US</p>'
     document.getElementById("content2").innerHTML = '<p>-The individuals have been resettled in 46 states</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
