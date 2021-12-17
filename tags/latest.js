@@ -2,7 +2,7 @@ function latest(){
     /* Top most entry */
 
     document.getElementById("title1").innerHTML = 'Gov. Beshear has given an update on the situation in KY.'
-    document.getElementById("content1").innerHTML = '<p>-Confirmed deaths: 74</p><p>-138 people were treated in ERs</p><p>The feds will cover %100 of the clean up costs for the first 30 days</p><p>-400+ FEMA personal on responding</p><p>-There are 16 individuals still missing</p><p>-3280 still do not have power</p><p>-The recovery fund balance: $14,800,437.39</p>'
+    document.getElementById("content1").innerHTML = '<p>-Confirmed deaths: 74</p><p>-138 people were treated in ERs</p><p>-The feds will cover %100 of the clean up costs for the first 30 days</p><p>-400+ FEMA personal are responding</p><p>-There are 16 individuals still missing</p><p>-3280 still do not have power</p><p>-The recovery fund balance: $14,800,437.39</p>'
     document.getElementById("content2").innerHTML = '<p>#news #openteanews #kentucky #kentuckytornado </p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
