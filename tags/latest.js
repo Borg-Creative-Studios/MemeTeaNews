@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("content2").innerHTML = ''
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '12/31/21 11:53am'
+    document.getElementById("time1").innerHTML = '12/31/21 2:15pm'
 
     /* Recent 2 */
 
