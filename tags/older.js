@@ -1,14 +1,13 @@
 function older(){
     /* older 1 */
 
-    document.getElementById("otitle1").innerHTML = 'Tomorrow marks the 50th anniversary of the National Cancer act of 1971.'
-    document.getElementById("ocontent1").innerHTML = ''
+    document.getElementById("otitle1").innerHTML = 'Seacrest Studios at the National Childrens Hospital.'
+    document.getElementById("ocontent1").innerHTML = '<p>As seen in popular social posts and in several broadcasts, “Seacrest Studios” is visible in a shot while POTUS was visiting National Childrens Hospital. Seacrest Studios is part of the Ryan Seacrest Foundation, a nonprofit, and builds broadcast studios in pediatric centers to teach kids about radio, film and other forms of broadcasting while they are receiving treatment.</p>'
     document.getElementById("ocontent2").innerHTML = ''
-    document.getElementById("olink1").innerHTML = ''
-    document.getElementById("olink1").href = ''
-    document.getElementById("otime1").innerHTML = '12/22/21 11:58am'
-    
-    
+    document.getElementById("olink1").innerHTML = 'Seacrest Foundation'
+    document.getElementById("olink1").href = 'https://www.ryanseacrestfoundation.org/'
+    document.getElementById("otime1").innerHTML = '12/25/21 5:11pm'
+
 
     /* older 2 */
 
