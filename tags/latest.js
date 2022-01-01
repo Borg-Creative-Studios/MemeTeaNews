@@ -1,7 +1,7 @@
 function latest(){
     /* Top most entry */
 
-    document.getElementById("title1").innerHTML = 'POTUS approves CO disaster decalration.'
+    document.getElementById("title1").innerHTML = 'POTUS approves CO disaster decalaration.'
     document.getElementById("content1").innerHTML = '<p>-This will allow additional federal aid to support those impacted by the wild fires</p>'
     document.getElementById("content2").innerHTML = ''
     document.getElementById("link1").innerHTML = ''
