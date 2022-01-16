@@ -2,11 +2,11 @@ function latest(){
     /* Top most entry */
 
     document.getElementById("title1").innerHTML = 'Hostage situation in Colleyville Texas.'
-    document.getElementById("content1").innerHTML = '<p>-SWAT is responding</p>'
-    document.getElementById("content2").innerHTML = '<p>-This is an active situation</p>'
+    document.getElementById("content1").innerHTML = '<p>-SWAT is responding</p> <p>-This is an active situation</p>'
+    document.getElementById("content2").innerHTML = '<p>-There are 4 hostages</p> <p>-There are no known injuries at this time</p> <p>-The situation was reported at 10:41 am</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '1/15/22 3:32pm'
+    document.getElementById("time1").innerHTML = '1/15/22 3:32pm | Updated 1/15/22 5:23pm'
 
     /* Recent 2 */
 
