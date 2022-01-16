@@ -3,10 +3,10 @@ function latest(){
 
     document.getElementById("title1").innerHTML = 'Hostage situation in Colleyville Texas.'
     document.getElementById("content1").innerHTML = '<p>-SWAT is responding</p> <p>-This is an active situation</p>'
-    document.getElementById("content2").innerHTML = '<p>-There are 3 hostages</p> <p>-There are no known injuries at this time</p> <p>-The situation was reported at 10:41 am</p><p>-Around 5pm, 1 of the 4 hostages was freed unharmed</p>'
+    document.getElementById("content2").innerHTML = '<p>-There were 4 hostages</p> <p>-The situation was reported at 10:41 am</p><p>-The 4 hostages have been freed, unharmed</p><p>-The suspect has been killed by law enforcement</p> <p>-POTUS remarked: "This was an act of terror"</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '1/15/22 3:32pm | Updated 1/15/22 5:23pm | Updated 1/15/22 6:25pm'
+    document.getElementById("time1").innerHTML = '1/15/22 3:32pm | Updated 1/15/22 5:23pm | Updated 1/15/22 6:25pm | Updated 1/16/22 11:28am'
 
     /* Recent 2 */
 
