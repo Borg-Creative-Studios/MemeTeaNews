@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("content2").innerHTML = '<p>-Concerns of a possible Russian invasion of Ukraine has increased in recent weeks.</p><p>-LA Crime Index: 337.2</p><p>-Kyiv Crime Index: 45.45</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '1/20/22 11:56am'
+    document.getElementById("time1").innerHTML = '1/24/22 12:55pm'
 
     /* Recent 2 */
 
