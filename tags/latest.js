@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("content2").innerHTML = '<p>-The 2nd shipment was intercepted on Jan. 20th</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '1/24/22 1:33pm'
+    document.getElementById("time1").innerHTML = '1/27/22 12:28pm'
 
     /* Recent 2 */
 
