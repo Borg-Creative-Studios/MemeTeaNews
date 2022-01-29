@@ -1,7 +1,7 @@
 function latest(){
     /* Top most entry */
 
-    document.getElementById("title1").innerHTML = 'An update on USA troop movement.'
+    document.getElementById("title1").innerHTML = 'An update on possible USA troop movement.'
     document.getElementById("content1").innerHTML = '<p>Q: "Have you decided how soon you would be moving U.S. troops to Eastern Europe?"</p>'
     document.getElementById("content2").innerHTML = '<p>POTUS: "I’ll be moving U.S. troops to Eastern Europe and the NATO countries in the near term — not a lot."</p>'
     document.getElementById("link1").innerHTML = 'WH Release'
