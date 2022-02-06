@@ -1,12 +1,12 @@
 function latest(){
     /* Top most entry */
 
-    document.getElementById("title1").innerHTML = 'US Central Command releases report on the Augest Abbey Gate attack.'
-    document.getElementById("content1").innerHTML = '<p>-Happened on Augest 26, 2021</p>'
-    document.getElementById("content2").innerHTML = '<p>-Killed 13 US services members & 170 Afghan civilians</p>'
-    document.getElementById("link1").innerHTML = 'DOD Release'
-    document.getElementById("link1").href = 'https://www.defense.gov/News/News-Stories/Article/Article/2924398/us-central-command-releases-report-on-august-abbey-gate-attack/'
-    document.getElementById("time1").innerHTML = '2/5/22 8:30pm'
+    document.getElementById("title1").innerHTML = 'National gas price average is up $0.977.'
+    document.getElementById("content1").innerHTML = '<p>-Current average: $3.439</p>'
+    document.getElementById("content2").innerHTML = '<p>-One year ago average: $2.462</p>'
+    document.getElementById("link1").innerHTML = ''
+    document.getElementById("link1").href = ''
+    document.getElementById("time1").innerHTML = '2/6/22 11:33am'
 
     /* Recent 2 */
 
