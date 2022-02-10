@@ -3,7 +3,7 @@ function latest(){
 
     document.getElementById("title1").innerHTML = 'LA County FD is deploying support to Orange County to assist in the Emerald Fire.'
     document.getElementById("content1").innerHTML = '<p>-Deployed two water-dropping helicopters</p>'
-    document.getElementById("content2").innerHTML = '<p>-Reported at 0409</p><p>-Evacuations have been ordered for Irvine Cove & Emerald Bay</p><p>-Evacuation warning for North Laguna</p>'
+    document.getElementById("content2").innerHTML = '<p>-Fire was reported at 0409</p><p>-Evacuations have been ordered for Irvine Cove & Emerald Bay</p><p>-Evacuation warning for North Laguna</p>'
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
     document.getElementById("time1").innerHTML = '2/10/22 11:45am'
