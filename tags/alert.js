@@ -1,5 +1,5 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'Emerald fire update: <p>-154 acres</p><p>-60% contained </p>'
+    document.getElementById("acontent1").innerHTML = 'California legislature introduces bill to force businesses to make their employees get vaccinated.'
     document.getElementById("alink").innerHTML = ''
     document.getElementById("alink").href = ''
 }
