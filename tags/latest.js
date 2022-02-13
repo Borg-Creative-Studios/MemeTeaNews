@@ -1,7 +1,7 @@
 function latest(){
     /* Top most entry */
 
-    document.getElementById("title1").innerHTML = 'POTUS speaks with Rssiuan president Putin.'
+    document.getElementById("title1").innerHTML = 'POTUS speaks with Russian president Putin.'
     document.getElementById("content1").innerHTML = '<p>-The discussion was centered around the Ukraine situation</p>'
     document.getElementById("content2").innerHTML = '<p>-POTUS informed that the US and its allies would "impose swift and severe costs on Russia" if the country invades Ukraine</p>'
     document.getElementById("link1").innerHTML = 'WH RELEASE'
