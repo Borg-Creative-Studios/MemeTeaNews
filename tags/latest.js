@@ -1,7 +1,7 @@
 function latest(){
     /* Top most entry */
 
-    document.getElementById("title1").innerHTML = 'Gov. Newsom announces an exension of Californias school mask mandate..'
+    document.getElementById("title1").innerHTML = 'Gov. Newsom announces an exension of Californias school mask mandate.'
     document.getElementById("content1").innerHTML = ''
     document.getElementById("content2").innerHTML = ''
     document.getElementById("link1").innerHTML = ''
