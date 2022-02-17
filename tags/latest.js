@@ -7,7 +7,8 @@ function latest(){
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
     document.getElementById("time1").innerHTML = '2/17/22 11:12am'
-    document.getElementById("telegram1").href = 'https://tea.borgcreative.com/tags/telegram1.html'
+    document.getElementById("telegram1").href = 'https://t.me/openteanews/14'
+    /*https://tea.borgcreative.com/tags/telegram1.html */
 
     /* Recent 2 */
 
