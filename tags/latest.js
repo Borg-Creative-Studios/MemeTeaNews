@@ -7,8 +7,7 @@ function latest(){
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
     document.getElementById("time1").innerHTML = '2/17/22 11:12am'
-    document.getElementById("telegram1").innerHTML = ''
-    document.getElementById("telegraml1").data-telegram-discussion = 'openteanews/14'
+    document.getElementById("telegram1").innerHTML = '<script id="telegraml1" async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-discussion="openteanews/14" data-comments-limit="5"></script>'
 
     /* Recent 2 */
 
