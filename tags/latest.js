@@ -17,7 +17,7 @@ function latest(){
     document.getElementById("link2").innerHTML = ''
     document.getElementById("link2").href = ''
     document.getElementById("time2").innerHTML = '2/14/22 8:07pm'
-    document.getElementById("telegram2").innerHTML = ''
+    document.getElementById("telegram2").href = 'https://t.me/openteanews'
     
     /* Recent 3 */
 
@@ -27,7 +27,7 @@ function latest(){
     document.getElementById("link3").innerHTML = 'WH RELEASE'
     document.getElementById("link3").href = 'https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/readout-of-president-bidens-call-with-president-vladimir-putin-of-russia/'
     document.getElementById("time3").innerHTML = '2/12/22 3:45pm'
-    document.getElementById("telegram3").innerHTML = ''
+    document.getElementById("telegram3").href = 'https://t.me/openteanews'
 
      /* Recent 4 */
 
@@ -37,7 +37,7 @@ function latest(){
      document.getElementById("link4").innerHTML = 'PHX PD RELEASE'
      document.getElementById("link4").href = 'https://www.phoenix.gov/newsroom/police/2238'
      document.getElementById("time4").innerHTML = '2/11/22 10:20pm'
-     document.getElementById("telegram4").innerHTML = ''
+     document.getElementById("telegram4").href = 'https://t.me/openteanews'
 
      /* Recent 5 */
 
@@ -47,7 +47,7 @@ function latest(){
      document.getElementById("link5").innerHTML = ''
      document.getElementById("link5").href = ''
      document.getElementById("time5").innerHTML = '2/11/22 10:11pm' 
-     document.getElementById("telegram5").innerHTML = ''
+     document.getElementById("telegram5").href = 'https://t.me/openteanews'
 
 }
 
