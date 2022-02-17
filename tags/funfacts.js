@@ -10,9 +10,9 @@ function funfacts(){
 
     /* older 2 */
 
-    document.getElementById("otitle2").innerHTML = ''
-    document.getElementById("ocontent3").innerHTML = '<p></p>'
-    document.getElementById("ocontent4").innerHTML = '<p></p>'
+    document.getElementById("otitle2").innerHTML = 'The Mona Lisa'
+    document.getElementById("ocontent3").innerHTML = '<p>The Mona Lisa was painted by Leonardo Da Vinci between 1503 and 1506.</p>'
+    document.getElementById("ocontent4").innerHTML = '<p>The Mona Lisa is a painting of noblewoman Lisa Gherardini.</p><p>The painting is on display in the Louvre in Paris France.</p>'
     document.getElementById("olink2").innerHTML = ''
     document.getElementById("olink2").href = ''
     document.getElementById("otime2").innerHTML = ''
