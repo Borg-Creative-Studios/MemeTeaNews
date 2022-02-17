@@ -7,6 +7,7 @@ function latest(){
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
     document.getElementById("time1").innerHTML = '2/17/22 11:12am'
+    document.getElementById("telegram1").innerHTML = '<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-discussion="openteanews/14" data-comments-limit="5"></script>'
 
     /* Recent 2 */
 
@@ -16,7 +17,8 @@ function latest(){
     document.getElementById("link2").innerHTML = ''
     document.getElementById("link2").href = ''
     document.getElementById("time2").innerHTML = '2/14/22 8:07pm'
-
+    document.getElementById("telegram2").innerHTML = ''
+    
     /* Recent 3 */
 
     document.getElementById("title3").innerHTML = 'POTUS speaks with Russian president Putin.'
@@ -25,6 +27,7 @@ function latest(){
     document.getElementById("link3").innerHTML = 'WH RELEASE'
     document.getElementById("link3").href = 'https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/12/readout-of-president-bidens-call-with-president-vladimir-putin-of-russia/'
     document.getElementById("time3").innerHTML = '2/12/22 3:45pm'
+    document.getElementById("telegram3").innerHTML = ''
 
      /* Recent 4 */
 
@@ -34,7 +37,8 @@ function latest(){
      document.getElementById("link4").innerHTML = 'PHX PD RELEASE'
      document.getElementById("link4").href = 'https://www.phoenix.gov/newsroom/police/2238'
      document.getElementById("time4").innerHTML = '2/11/22 10:20pm'
- 
+     document.getElementById("telegram4").innerHTML = ''
+
      /* Recent 5 */
 
      document.getElementById("title5").innerHTML = 'Roseville Joint Union High School District passes resolution making masking optional for students.'
@@ -43,7 +47,7 @@ function latest(){
      document.getElementById("link5").innerHTML = ''
      document.getElementById("link5").href = ''
      document.getElementById("time5").innerHTML = '2/11/22 10:11pm' 
-
+     document.getElementById("telegram5").innerHTML = ''
 
 }
 
