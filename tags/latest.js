@@ -2,7 +2,7 @@ function latest(){
     /* Top most entry */
 
     document.getElementById("title1").innerHTML = 'War in Ukraine:'
-    document.getElementById("content1").innerHTML = '<p>-Russia began its invasion of Ukraine at 5:00am, Feb 24th</p><p>-Biden has imposed new sanctions against Russia</p><p>-Zelensky cuts diplomatic ties with Russia.</p>'
+    document.getElementById("content1").innerHTML = '<p>-Russia began its invasion of Ukraine at 5:00am, Feb 24th</p><p>-Biden has imposed new sanctions against Russia</p><p>-Zelenskyy cuts diplomatic ties with Russia.</p>'
     document.getElementById("content01").innerHTML = '<p>This is a developing situation and encourage that you exercise caution with the sources you get info from.</p><p><a href="https://twitter.com/StateDept" target="_blank">@StateDept (Twitter)</a></p>'
     document.getElementById("link1").innerHTML = '@Ukraine (Twitter)'
     document.getElementById("link1").href = 'https://twitter.com/Ukraine'
