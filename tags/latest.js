@@ -14,8 +14,8 @@ function latest(){
 
     /* Recent 2 */
 
-    document.getElementById("title11").innerHTML = 'There are reports of fraudulant donation requests in the name of Ukraine.'
-    document.getElementById("content11").innerHTML = '<p>Before donating to any fund, we recommend that you reswearch who created it and who shared it and to be cautious prior to donating.</p>'
+    document.getElementById("title11").innerHTML = 'There are reports of fraudulent donation requests in the name of Ukraine.'
+    document.getElementById("content11").innerHTML = '<p>Before donating to any fund, we recommend that you research who created it and who shared it and to be cautious prior to donating.</p>'
     document.getElementById("content011").innerHTML = ''
     document.getElementById("link11").innerHTML = ''
     document.getElementById("link11").href = ''
