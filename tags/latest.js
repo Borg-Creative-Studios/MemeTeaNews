@@ -3,7 +3,7 @@ function latest(){
 
     document.getElementById("title1").innerHTML = 'War in Ukraine:'
     document.getElementById("content1").innerHTML = '<p>-Russia began its invasion of Ukraine at 5:00am, Feb 24th</p><p>-Biden has imposed new sanctions against Russia</p><p>-Zelenskyy cuts diplomatic ties with Russia.</p>'
-    document.getElementById("content01").innerHTML = '<p>-Anonymous says that it has leaked a database from the RMD website</p><p>-Ukrainian troops are fighting the Russian advance on Kyiv</p>  <p>This is a developing situation and encourage that you exercise caution with the sources you get info from.</p><p><a href="https://twitter.com/StateDept" target="_blank">@StateDept (Twitter)</a></p>'
+    document.getElementById("content01").innerHTML = '<p>-Anonymous says that it has leaked a database from the RMD website</p><p>-(Feb 26) Kyiv makes it through the night</p>  <p>This is a developing situation and encourage that you exercise caution with the sources you get info from.</p><p><a href="https://twitter.com/StateDept" target="_blank">@StateDept (Twitter)</a></p>'
     document.getElementById("link1").innerHTML = '@Ukraine (Twitter)'
     document.getElementById("link1").href = 'https://twitter.com/Ukraine'
     document.getElementById("time1").innerHTML = 'Updated 2/26/22 12:32am | 2/24/22 2:22pm'
