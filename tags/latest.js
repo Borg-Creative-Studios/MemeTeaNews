@@ -37,7 +37,7 @@ function latest(){
     
      /* Recent 4 */
 
-     document.getElementById("title111").innerHTML = 'All PHX PD officers harmed on Friday have been released from the hospital.'
+     document.getElementById("title1111").innerHTML = 'All PHX PD officers harmed on Friday have been released from the hospital.'
      document.getElementById("content1111").innerHTML = ''
      document.getElementById("content01111").innerHTML = ''
      document.getElementById("link1111").innerHTML = ''
