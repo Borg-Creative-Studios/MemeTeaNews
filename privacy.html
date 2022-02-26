@@ -35,6 +35,25 @@
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
     panelbear('config', { site: 'LCOy0NfwcHY' });
 </script>
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.borgcreative.com/tracking/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '12']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://analytics.borgcreative.com/tracking/matomo.php?idsite=12&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
 </head>
 
 <body class="text-center" onload="latest(), alert()">
@@ -88,7 +107,7 @@
                             <div class="card-body text-start">
                                 <p class="card-text">The analytical data we collect is all done so anonymously.</p>
                                 <p class="card-text">The anonymously collected data includes browser type, operating system, country/region, language, and on page activity.</p>
-                                <p class="card-text">Don't believe us? View the analytics yourself&nbsp;<a href="https://app.panelbear.com/share/3usWO3oVZfLB2OXuVgz7G0/" target="_blank">here.</a>&nbsp;What you see, is what we see.</p>
+                                <p class="card-text">Don't believe us? View the PanelBear analytics page yourself&nbsp;<a href="https://app.panelbear.com/share/3usWO3oVZfLB2OXuVgz7G0/" target="_blank">here.</a>&nbsp;What you see, is what we see. We also utilize our own analytics platform powered by&nbsp;<a href="https://matomo.org/" target="_blank">here.</a>&nbsp;</p>
                             </div>
                         </div>
                     </div>
