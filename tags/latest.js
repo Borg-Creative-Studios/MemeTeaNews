@@ -20,7 +20,7 @@ function latest(){
     document.getElementById("link11").innerHTML = 'Read the Tweet from @MFA_Ukraine'
     document.getElementById("link11").href = 'https://twitter.com/MFA_Ukraine/status/1497983902614315008'
     document.getElementById("time11").innerHTML = '2/27/22 12:18pm MST'
-    document.getElementById("telegram11").href = 'https://t.me/openteanews/20'
+    document.getElementById("telegram11").href = 'https://t.me/openteanews/21'
     
 
     
