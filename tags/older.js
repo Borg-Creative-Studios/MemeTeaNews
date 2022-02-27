@@ -5,7 +5,7 @@ function older(){
     document.getElementById("ocontent2").innerHTML = ''
     document.getElementById("olink1").innerHTML = ''
     document.getElementById("olink1").href = ''
-    document.getElementById("otime1").innerHTML = '2/17/22 3:32pm'
+    document.getElementById("otime1").innerHTML = '2/17/22 3:32pm MST'
 
     
     /* older 2 */
@@ -15,6 +15,6 @@ function older(){
     document.getElementById("ocontent4").innerHTML = '<p>-423 greenhouses eradicated</p>'
     document.getElementById("olink2").innerHTML = ''
     document.getElementById("olink2").href = ''
-    document.getElementById("otime2").innerHTML = '2/10/22 11:04pm'
+    document.getElementById("otime2").innerHTML = '2/10/22 11:04pm MST'
 
 }
