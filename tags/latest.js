@@ -14,56 +14,50 @@ function latest(){
 
     /* Recent 2 */
 
-    document.getElementById("title11").innerHTML = 'There are reports of fraudulent donation requests in the name of Ukraine.'
-    document.getElementById("content11").innerHTML = '<p>Before donating to any fund, we recommend that you research who created it and who shared it and to be cautious prior to donating.</p>'
-    document.getElementById("content011").innerHTML = ''
-    document.getElementById("link11").innerHTML = ''
-    document.getElementById("link11").href = ''
-    document.getElementById("time11").innerHTML = '2/26/22 11:17am'
-    document.getElementById("telegram11").href = 'https://t.me/openteanews/19'
+    document.getElementById("title11").innerHTML = 'Elon Musks Starlink is now active in Ukraine with additional units on their way.'
+    document.getElementById("content11").innerHTML = '<p>-5:16 am Feb 26, 2022: Mykhailo Fedorov, Minister of Digital Transformation of Ukraine, Tweeted a public plea to Elon Musk for assistance</p>'
+    document.getElementById("content011").innerHTML = '<p>-3:33 pm Feb 26, 2022: Elon Musk replies to Fedorovs Tweet'
+    document.getElementById("link11").innerHTML = 'Read the Tweets'
+    document.getElementById("link11").href = 'https://twitter.com/FedorovMykhailo/status/1497543633293266944'
+    document.getElementById("time11").innerHTML = '2/26/22 8:10pm'
+    document.getElementById("telegram11").href = 'https://t.me/openteanews/18'
     
 
     
 
     /* Recent 3 */
 
-    document.getElementById("title111").innerHTML = 'Ukrainian Minister of Foreign Affairs, Dmytro Kuleba:'
-    document.getElementById("content111").innerHTML = '<p>“Kyiv, our splendid, peaceful city, survived another night under attacks by Russian ground forces, missiles. One of them has hit a residential apartment in Kyiv. I demand the world: fully isolate Russia, expel ambassadors, oil embargo, ruin its economy. Stop Russian war criminals!”</p>'
+    document.getElementById("title111").innerHTML = 'There are reports of fraudulent donation requests in the name of Ukraine.'
+    document.getElementById("content111").innerHTML = '<p>Before donating to any fund, we recommend that you research who created it and who shared it and to be cautious prior to donating.</p>'
     document.getElementById("content0111").innerHTML = ''
-    document.getElementById("link111").innerHTML = 'See the Tweet'
-    document.getElementById("link111").href = 'https://twitter.com/DmytroKuleba/status/1497463617767227395'
-    document.getElementById("time111").innerHTML = '2/26/22 12:49am'
-    document.getElementById("telegram111").href = 'https://t.me/openteanews/18'
+    document.getElementById("link111").innerHTML = ''
+    document.getElementById("link111").href = ''
+    document.getElementById("time111").innerHTML = '2/26/22 11:17am'
+    document.getElementById("telegram111").href = 'https://t.me/openteanews/19'
     
+
      /* Recent 4 */
 
-     document.getElementById("title1111").innerHTML = 'Russia is to recognize the independence of two breakaway regions of Ukraine.'
-     document.getElementById("content1111").innerHTML = ''
+     document.getElementById("title1111").innerHTML = 'Ukrainian Minister of Foreign Affairs, Dmytro Kuleba:'
+     document.getElementById("content1111").innerHTML = '<p>“Kyiv, our splendid, peaceful city, survived another night under attacks by Russian ground forces, missiles. One of them has hit a residential apartment in Kyiv. I demand the world: fully isolate Russia, expel ambassadors, oil embargo, ruin its economy. Stop Russian war criminals!”</p>'
      document.getElementById("content01111").innerHTML = ''
-     document.getElementById("link1111").innerHTML = ''
-     document.getElementById("link1111").href = ''
-     document.getElementById("time1111").innerHTML = '2/21/22 1:14pm'
-     document.getElementById("telegram1111").href = 'https://t.me/openteanews/17'
+     document.getElementById("link1111").innerHTML = 'See the Tweet'
+     document.getElementById("link1111").href = 'https://twitter.com/DmytroKuleba/status/1497463617767227395'
+     document.getElementById("time1111").innerHTML = '2/26/22 12:49am'
+     document.getElementById("telegram1111").href = 'https://t.me/openteanews/18'
      
-     document.getElementById("title1111").innerHTML = 'Angeles National Forest is conducting 2 controlled burns.'
-     document.getElementById("content1111").innerHTML = '<p>-The burns are near the Chilao campground & Barret Stoddard</p>'
-     document.getElementById("content01111").innerHTML = '<p>-Forest service advises that light smoke may be visible</p>'
-     document.getElementById("link1111").innerHTML = ''
-     document.getElementById("link1111").href = ''
-     document.getElementById("time1111").innerHTML = '2/21/22 1:08pm'
-     document.getElementById("telegram1111").href = 'https://t.me/openteanews/16'
-    
+
 
      /* Recent 5 */
 
-     document.getElementById("title11111").innerHTML = 'Angeles National Forest is conducting 2 controlled burns.'
-     document.getElementById("content11111").innerHTML = '<p>-The burns are near the Chilao campground & Barret Stoddard</p>'
-     document.getElementById("content011111").innerHTML = '<p>-Forest service advises that light smoke may be visible</p>'
+     document.getElementById("title11111").innerHTML = 'Russia is to recognize the independence of two breakaway regions of Ukraine.'
+     document.getElementById("content11111").innerHTML = ''
+     document.getElementById("content011111").innerHTML = ''
      document.getElementById("link11111").innerHTML = ''
      document.getElementById("link11111").href = ''
-     document.getElementById("time11111").innerHTML = '2/21/22 1:08pm'
-     document.getElementById("telegram11111").href = 'https://t.me/openteanews/16'
-    
+     document.getElementById("time11111").innerHTML = '2/21/22 1:14pm'
+     document.getElementById("telegram11111").href = 'https://t.me/openteanews/17'
+     
 
 }
 
