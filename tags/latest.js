@@ -20,7 +20,7 @@ function latest(){
     document.getElementById("link11").innerHTML = 'Read the Tweets'
     document.getElementById("link11").href = 'https://twitter.com/FedorovMykhailo/status/1497543633293266944'
     document.getElementById("time11").innerHTML = '2/26/22 8:10pm MST'
-    document.getElementById("telegram11").href = 'https://t.me/openteanews/18'
+    document.getElementById("telegram11").href = 'https://t.me/openteanews/20'
     
 
     
