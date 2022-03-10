@@ -3,3 +3,4 @@ function alert(){
     document.getElementById("alink").innerHTML = ''
     document.getElementById("alink").href = ''
 }
+
