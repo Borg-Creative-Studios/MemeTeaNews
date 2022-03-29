@@ -1,6 +1,6 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'Elon Musk says Europe should restart its deactivated nuclear power plants.'
-    document.getElementById("alink").innerHTML = 'Read the Tweet'
-    document.getElementById("alink").href = 'https://twitter.com/elonmusk/status/1500613952031444995'
+    document.getElementById("acontent1").innerHTML = 'Privacy-freindly are now available on OTN!'
+    document.getElementById("alink").innerHTML = 'Purchase an ad'
+    document.getElementById("alink").href = 'https://www.borgcreative.com/page12.html'
 }
 
