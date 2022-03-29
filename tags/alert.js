@@ -1,5 +1,5 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'Privacy-freindly are now available on OTN!'
+    document.getElementById("acontent1").innerHTML = 'Privacy-freindly are now available on OTN! '
     document.getElementById("alink").innerHTML = 'Purchase an ad'
     document.getElementById("alink").href = 'https://www.borgcreative.com/page12.html'
 }
