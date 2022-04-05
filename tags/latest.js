@@ -5,7 +5,7 @@ function latest(){
     document.getElementById("content01").innerHTML = ''
     document.getElementById("link1").innerHTML = 'Read the Tweet'
     document.getElementById("link1").href = 'https://twitter.com/paraga/status/1511320953598357505'
-    document.getElementById("time1").innerHTML = '4/4/22 10:55am MST'
+    document.getElementById("time1").innerHTML = '4/5/22 10:55am MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/26'
     
     
