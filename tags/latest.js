@@ -13,7 +13,7 @@ function latest(){
 
     /* Recent 2 */
 
-    document.getElementById("title1").innerHTML = 'Tempe FD, PHX FD, and PHX PD rescue injured hiker from Camelback Mountain.'
+    document.getElementById("title11").innerHTML = 'Tempe FD, PHX FD, and PHX PD rescue injured hiker from Camelback Mountain.'
     document.getElementById("content11").innerHTML = '"We please ask you to take all safety precautions before, during and after your hike." -@PHXFire'
     document.getElementById("content011").innerHTML = ''
     document.getElementById("link11").innerHTML = 'Read the Tweets'
