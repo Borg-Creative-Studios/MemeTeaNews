@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("link1").innerHTML = 'Read Breaking911s response'
     document.getElementById("link1").href = 'https://twitter.com/Breaking911/status/1522345312744095745'
     document.getElementById("time1").innerHTML = '5/5/22 6:22pm MST'
-    document.getElementById("telegram1").href = 'https://t.me/openteanews/31'
+    document.getElementById("telegram1").href = 'https://t.me/openteanews/32'
     
     
     /*https://tea.borgcreative.com/tags/telegram1.html */
@@ -19,7 +19,7 @@ function latest(){
     document.getElementById("link11").innerHTML = 'Read the Tweet'
     document.getElementById("link11").href = 'https://twitter.com/senatormelendez/status/1521332604548517888'
     document.getElementById("time11").innerHTML = '5/3/22 4:42pm MST'
-    document.getElementById("telegram11").href = 'https://t.me/openteanews/30'
+    document.getElementById("telegram11").href = 'https://t.me/openteanews/31'
     
 
     
