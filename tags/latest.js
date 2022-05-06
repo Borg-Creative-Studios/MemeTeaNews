@@ -2,7 +2,7 @@ function latest(){
     /* Top most entry */
     document.getElementById("title1").innerHTML = 'Breaking911 Tweet labeled as "misleading" and its interactions were disabled for a brief time.'
     document.getElementById("content1").innerHTML = 'Breaking911 <a href="https://twitter.com/Breaking911/status/1522331986454409217" target="_blank">tweeted</a> about the FDA restricting the J&J COVID vaccine due to blood clotting concerns.'
-    document.getElementById("content01").innerHTML = 'Twitter has since re-enabled interactions on the tweet.'
+    document.getElementById("content01").innerHTML = 'Twitter has since re-enabled interactions on the tweet and removed the "misleading" label.'
     document.getElementById("link1").innerHTML = 'Read Breaking911s response'
     document.getElementById("link1").href = 'https://twitter.com/Breaking911/status/1522345312744095745'
     document.getElementById("time1").innerHTML = '5/5/22 6:22pm MST'
