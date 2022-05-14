@@ -1,7 +1,7 @@
 function latest(){
     /* Top most entry */
     document.getElementById("title1").innerHTML = '10 killed in supermarket shooting; Suspect in custody'
-    document.getElementById("content1").innerHTML = 'Buffalo, NY: A person opened fire in a supermarket prior to exiting and surrendering to authorities.'
+    document.getElementById("content1").innerHTML = '<p>Buffalo, NY: A person opened fire in a supermarket prior to exiting and surrendering to authorities.</p>'
     document.getElementById("content01").innerHTML = '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: BPD on scene of a mass shooting at the Tops in the 1200 block of Jefferson Avenue. Police say multiple people have been struck by gunfire. The shooter is in custody. Motorists and residents are urged to avoid the area.</p>&mdash; Buffalo Police Dept (@BPDAlerts) <a href="https://twitter.com/BPDAlerts/status/1525558280981991428?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> '
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
