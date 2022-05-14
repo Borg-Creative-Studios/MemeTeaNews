@@ -15,7 +15,7 @@ function latest(){
 
         document.getElementById("title11").innerHTML = 'Jen Psaki via Twitter:'
     document.getElementById("content11").innerHTML = '".<a href="https://twitter.com/POTUS" target="_blank">@POTUS</a> strongly believes in the Constitutional right to protest. But that should never include violence, threats, or vandalism. Judges perform an incredibly important function in our society, and they must be able to do their jobs without concern for their personal safety."'
-    document.getElementById("content011").innerHTML = '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a> strongly believes in the Constitutional right to protest. But that should never include violence, threats, or vandalism. Judges perform an incredibly important function in our society, and they must be able to do their jobs without concern for their personal safety.</p>&mdash; Karine Jean-Pierre (@PressSec) <a href="https://twitter.com/PressSec/status/1523649143951962115?ref_src=twsrc%5Etfw">May 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> '
+    document.getElementById("content011").innerHTML = ''
     document.getElementById("link11").innerHTML = 'Read the Tweet'
     document.getElementById("link11").href = 'https://twitter.com/PressSec/status/1523649143951962115'
     document.getElementById("time11").innerHTML = '5/9/22 9:45am MST'
