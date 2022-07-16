@@ -26,13 +26,13 @@ function latest(){
 
     /* Recent 3 */
 
-    document.getElementById("title111").innerHTML = '10 killed in supermarket shooting; Suspect in custody'
-    document.getElementById("content111").innerHTML = '<p>Buffalo, NY: A person opened fire in a supermarket prior to exiting and surrendering to authorities.</p>'
-    document.getElementById("content0111").innerHTML = '<p><blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">"BREAKING: BPD on scene of a mass shooting at the Tops in the 1200 block of Jefferson Avenue. Police say multiple people have been struck by gunfire. The shooter is in custody. Motorists and residents are urged to avoid the area."</p>&mdash; Buffalo Police Dept (@BPDAlerts) <a href="https://twitter.com/BPDAlerts/status/1525558280981991428?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>'
+    document.getElementById("title111").innerHTML = '- - -'
+    document.getElementById("content111").innerHTML = ''
+    document.getElementById("content0111").innerHTML = ''
     document.getElementById("link111").innerHTML = ''
     document.getElementById("link111").href = ''
-    document.getElementById("time111").innerHTML = '5/14/22 4:37pm MST'
-    document.getElementById("telegram111").href = 'https://t.me/openteanews/34'
+    document.getElementById("time111").innerHTML = '00/00/22 00:00apm MST'
+    document.getElementById("telegram111").href = 'https://t.me/openteanews/'
 
 
 
@@ -42,25 +42,25 @@ function latest(){
 
      /* Recent 4 */
 
-     document.getElementById("title1111").innerHTML = 'Jen Psaki via Twitter:'
-     document.getElementById("content1111").innerHTML = '".<a href="https://twitter.com/POTUS" target="_blank">@POTUS</a> strongly believes in the Constitutional right to protest. But that should never include violence, threats, or vandalism. Judges perform an incredibly important function in our society, and they must be able to do their jobs without concern for their personal safety."'
+     document.getElementById("title1111").innerHTML = '- - -'
+     document.getElementById("content1111").innerHTML = ''
      document.getElementById("content01111").innerHTML = ''
-     document.getElementById("link1111").innerHTML = 'Read the Tweet'
-     document.getElementById("link1111").href = 'https://twitter.com/PressSec/status/1523649143951962115'
-     document.getElementById("time1111").innerHTML = '5/9/22 9:45am MST'
-     document.getElementById("telegram1111").href = 'https://t.me/openteanews/33'
+     document.getElementById("link1111").innerHTML = ''
+     document.getElementById("link1111").href = ''
+     document.getElementById("time1111").innerHTML = '00/00/22 00:00apm MST'
+     document.getElementById("telegram1111").href = 'https://t.me/openteanews/'
  
 
 
      /* Recent 5 */
 
-     document.getElementById("title11111").innerHTML = 'Breaking911 Tweet labeled as "misleading" and its interactions were disabled for a brief time.'
-     document.getElementById("content11111").innerHTML = 'Breaking911 <a href="https://twitter.com/Breaking911/status/1522331986454409217" target="_blank">tweeted</a> about the FDA restricting the J&J COVID vaccine due to blood clotting concerns.'
-     document.getElementById("content011111").innerHTML = 'Twitter has since re-enabled interactions on the tweet and removed the "misleading" label.'
-     document.getElementById("link11111").innerHTML = 'Read Breaking911s response'
-     document.getElementById("link11111").href = 'https://twitter.com/Breaking911/status/1522345312744095745'
-     document.getElementById("time11111").innerHTML = '5/5/22 6:22pm MST'
-     document.getElementById("telegram11111").href = 'https://t.me/openteanews/32'
+     document.getElementById("title11111").innerHTML = '- - -'
+     document.getElementById("content11111").innerHTML = ''
+     document.getElementById("content011111").innerHTML = ''
+     document.getElementById("link11111").innerHTML = ''
+     document.getElementById("link11111").href = ''
+     document.getElementById("time11111").innerHTML = '00/00/22 00:00apm MST'
+     document.getElementById("telegram11111").href = 'https://t.me/openteanews/'
      
 
 
