@@ -14,13 +14,13 @@ function latest(){
 
     /* Recent 2 */
 
-    document.getElementById("title1").innerHTML = 'US national gas price average is $4.577'
-    document.getElementById("content1").innerHTML = ''
-    document.getElementById("content01").innerHTML = ''
-    document.getElementById("link1").innerHTML = ''
-    document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '7/15/22 10:52pm MST'
-    document.getElementById("telegram1").href = 'https://t.me/openteanews/36'
+    document.getElementById("title11").innerHTML = 'US national gas price average is $4.577'
+    document.getElementById("content11").innerHTML = ''
+    document.getElementById("content011").innerHTML = ''
+    document.getElementById("link11").innerHTML = ''
+    document.getElementById("link11").href = ''
+    document.getElementById("time11").innerHTML = '7/15/22 10:52pm MST'
+    document.getElementById("telegram11").href = 'https://t.me/openteanews/36'
     
 
 
