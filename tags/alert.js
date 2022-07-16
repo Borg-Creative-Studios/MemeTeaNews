@@ -1,5 +1,5 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'According to leaked documents and POLITICO, SCOTUS is set to overturn Roe Vs. Wade.'
+    document.getElementById("acontent1").innerHTML = 'US inflation rate hits 9.1%.'
     document.getElementById("alink").innerHTML = ''
     document.getElementById("alink").href = ''
 }

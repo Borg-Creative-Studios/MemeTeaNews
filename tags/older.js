@@ -1,13 +1,15 @@
 function older(){
     /* older 1 */
 
-    document.getElementById("otitle1").innerHTML = 'Elon Musk to join Twitters board of executives.'
-    document.getElementById("ocontent1").innerHTML = ''
-    document.getElementById("ocontent2").innerHTML = ''
-    document.getElementById("olink1").innerHTML = 'Read the Tweet'
-    document.getElementById("olink1").href = 'https://twitter.com/paraga/status/1511320953598357505'
-    document.getElementById("otime1").innerHTML = '4/5/22 10:55am MST'
 
+    document.getElementById("otitle1").innerHTML = 'Tempe FD, PHX FD, and PHX PD rescue injured hiker from Camelback Mountain.'
+    document.getElementById("ocontent1").innerHTML = '"We please ask you to take all safety precautions before, during and after your hike." -@PHXFire'
+    document.getElementById("ocontent2").innerHTML = ''
+    document.getElementById("olink1").innerHTML = 'Read the Tweets'
+    document.getElementById("olink1").href = 'https://twitter.com/PHXFire/status/1515418491892879360'
+    document.getElementById("otime1").innerHTML = '4/16/22 4:42pm MST'
+
+    
 
 
     
