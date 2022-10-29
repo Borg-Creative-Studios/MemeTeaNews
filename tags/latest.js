@@ -14,7 +14,7 @@ function latest(){
 
     /* Recent 2 */
 
-    document.getElementById("title11").innerHTML = 'Midterms approach '
+    document.getElementById("title11").innerHTML = 'Midterms approach'
     document.getElementById("content11").innerHTML = ''
     document.getElementById("content011").innerHTML = ''
     document.getElementById("link11").innerHTML = ''
