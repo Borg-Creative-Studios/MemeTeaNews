@@ -28,8 +28,8 @@ function latest(){
     document.getElementById("time11").innerHTML = '10/30/22 12:14pm MST'
     document.getElementById("telegram11").href = 'https://t.me/openteanews/40'
 
-    document.getElementById("rlink11").innerHTML = 'Common cryptocurrency scams and how to avoid them - Kaspersky'
-    document.getElementById("rlink11").href = 'https://www.kaspersky.com/resource-center/definitions/cryptocurrency-scams'
+    document.getElementById("rlink11").innerHTML = ''
+    document.getElementById("rlink11").href = ''
 
     document.getElementById("rlink011").innerHTML = ''
     document.getElementById("rlink011").href = ''
