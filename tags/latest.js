@@ -7,12 +7,13 @@ function latest(){
     document.getElementById("link1").href = 'https://twitter.com/FBILasVegas/status/1586426436755267584'
     document.getElementById("time1").innerHTML = '10/29/22 8:39pm MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/'
-    
+    document.getElementById("rlink01").innerHTML = ''
+    document.getElementById("rlink01").href = ''
+
+
     document.getElementById("rlink1").innerHTML = 'Common cryptocurrency scams and how to avoid them - Kaspersky'
     document.getElementById("rlink1").href = 'https://www.kaspersky.com/resource-center/definitions/cryptocurrency-scams'
 
-    document.getElementById("rlink01").innerHTML = ''
-    document.getElementById("rlink01").href = ''
     
     
     /*https://tea.borgcreative.com/tags/telegram1.html */
