@@ -2,7 +2,7 @@ function funfacts(){
     /* older 1 */
 
     document.getElementById("fftitle1").innerHTML = 'Noah Webster and the Dictionary'
-    document.getElementById("ffcontent1").innerHTML = '<p>Webster wrote various dictionaries of the English language, his most influentialbeing "An American Dictionary of the English Language". </p>'
+    document.getElementById("ffcontent1").innerHTML = '<p>Webster wrote various dictionaries of the English language, his most influential being "An American Dictionary of the English Language". </p>'
     document.getElementById("ffcontent2").innerHTML = '<p> </p>'
     document.getElementById("fflink1").innerHTML = ''
     document.getElementById("fflink1").href = ''
